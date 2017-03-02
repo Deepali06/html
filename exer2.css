@@ -1,0 +1,131 @@
+body{
+	background:  url(backimage.jpg);
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+	background-size: cover;
+}
+.container_12{
+	padding-bottom: 15px;
+    
+}
+.nav{
+	position: fixed;
+	left: 200px;
+}
+.image img {
+
+	/*height: 50px;*/
+	width: 100px;
+}
+.image p{
+	
+	width: 300px;
+	font-size: 13px;
+	display: block;
+	margin: 11px 0 0 0;
+
+}
+.image{
+float: left;
+width: 100px;
+background-color: rgb(200,200,200);
+margin:0;
+
+}
+.sidebar{
+	float: right;
+	background-color: rgb(200,200,200);
+	height: 80px;
+	/*overflow: hidden;*/
+	padding-left: 40px;
+	margin: 0px;
+	
+}
+.sidebar a{
+	text-decoration: none;
+}
+.sidebar a:hover{
+	text-decoration: underline;
+}
+.sidebar li {
+	display: inline;
+	padding-left: 20px;
+
+}
+
+.sidebar ul{
+     
+     margin-top: 30px;
+     margin-left: 40px;
+}
+
+.section1 img{
+     height: 200px;
+     width: 200px;
+
+     
+}
+.section2 img{
+	height:200px;
+	width: 200px;
+}
+.section3 img{
+	height: 200px;
+	width: 200px;
+}
+.section1 p{
+	color:black;
+	font-family: cursive;
+}
+.section2 p{
+	color: black;
+	font-family: cursive;
+}
+.section3 p{
+	color: black;
+	font-family: cursive;
+}
+form li{
+	list-style: none;
+	margin:bottom: 20px;
+}
+label{
+	display: block;
+}
+form ul{
+	padding-left: 0;
+}
+
+.mainimage img{
+	width: 960;
+	height: 500px;
+    margin-top: 90px;
+}
+.next h4{
+	padding-left: 100px;
+
+}
+.level3 li{
+	display: inline;
+	list-style: none;
+	padding: 10px;
+}
+.footer li{
+	list-style: none;
+	display: inline;
+	
+	padding: 10px;
+
+}
+.footer a{
+	color: red,
+}
+.footer li:nth-child(2)
+{
+	padding-left: 150px;
+}
+/*.content li{
+	color: green;
+	width: 500px;
+	display: block;
+}*/
